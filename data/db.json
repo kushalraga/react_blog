@@ -1,0 +1,58 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Learning React Basics",
+      "body": "React is a popular JavaScript library for building user interfaces.",
+      "author": "Alice Johnson"
+    },
+    {
+      "id": "2",
+      "title": "Understanding Props and State",
+      "body": "Props and state are essential concepts in React that help create dynamic apps.",
+      "author": "John Doe"
+    },
+    {
+      "id": "3",
+      "title": "Introduction to useEffect",
+      "body": "The useEffect hook is used to handle side effects in functional components.",
+      "author": "Jane Smith"
+    },
+    {
+      "id": "4",
+      "title": "Styling in React",
+      "body": "Learn how to style your React components using CSS, inline styles, or libraries.",
+      "author": "Mike Hesson"
+    },
+    {
+      "id": "5",
+      "title": "React Router Basics",
+      "body": "React Router is a library for managing navigation in React applications.",
+      "author": "Sara Connor"
+    },
+    {
+      "id": "262a",
+      "title": "reacttips",
+      "body": "content",
+      "author": "John Doe"
+    },
+    {
+      "id": "2d11",
+      "title": "kushalr",
+      "body": "raga",
+      "author": "John Doe"
+    },
+    {
+      "id": "1661",
+      "title": "alice johnson",
+      "body": "first blog",
+      "author": "Alice Johnson"
+    },
+    {
+      "id": "000b",
+      "title": "alokd",
+      "body": "class 10",
+      "author": "Mike Hesson"
+    }
+  ]
+}

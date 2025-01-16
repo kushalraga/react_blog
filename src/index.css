@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+*{
+  font-family: "Poppins", serif;
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 600px;
+  border-bottom: 2px solid #f4f4f4;
+}
+
+.navbar h1{
+  color: red;
+}
+
+.links a{
+  margin-right: 10px;
+  color: black;
+  text-decoration: none;
+}
+
+.links a:hover{
+  color: red;
+}
+
+.links a:active{
+  color: red;
+}
+
+.content{
+  max-width: 600px;
+  margin: 10px auto;
+  padding :20px;
+}
+
+.blogPreview{
+  padding: 10px 12px;
+  margin: 10px 0;
+  border-bottom: 1px solid black;
+}
+
+.blogPreview:hover{
+  box-shadow: 1px 3px 5px grey;
+}
+
+.blogPreview h1{
+  font-size: 20px;
+  color: red;
+}
+.blogPreview a{
+  text-decoration: none;
+}
+
+.blog-detail h2{
+  color: red;
+}
+.blog-detail button{
+  padding: 12px;
+  background-color: red;
+  color: white;
+  margin-top: 30px;
+  cursor: pointer;
+}
+.create{
+  width: 100%;
+  
+  text-align: center;
+}
+.create label{
+  display: block;
+  text-align: left;
+}
+.create h2{
+  font-size: 20px;
+  color: red;
+  margin-bottom: 30px;
+}
+.create input, .create textarea, .create select{
+  padding: 6px 10px;
+  width: 100%;
+ 
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+.create button{
+  padding: 12px;
+  background-color: red;
+  color: white;
+  margin-top: 30px;
+  cursor: pointer;
+}
